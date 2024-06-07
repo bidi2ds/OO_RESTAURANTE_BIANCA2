@@ -40,6 +40,6 @@ else:
 
 #questão 8
 if (restaurante_pasta.ativo):
-        print('Restaurante pizza inativo')
+        print('Restaurante pasta inativo')
 else:
         print('Restaurante pasta ativo')
